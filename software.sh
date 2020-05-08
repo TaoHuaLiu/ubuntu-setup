@@ -17,6 +17,7 @@ PKGS=(
 'git'
 'tlp'
 'aria2'
+'tree'
 # 'snapd'
 'grep'
 'curl'
@@ -27,8 +28,10 @@ PKGS=(
 'transmission-daemon'
 'exfat-fuse'
 'vifm'
+'ranger'
 'locate'
 'gufw'
+'fzf'
 
 # ZSH 
 'zsh'
