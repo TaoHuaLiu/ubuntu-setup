@@ -69,6 +69,8 @@ PKGS=(
 'pandoc-citeproc'
 'gnuplot'
 'groff'
+'r-cran-rmarkdown'
+# 'r-cran-reticulate'
 
 # OFFICE
 'thunderbird'
