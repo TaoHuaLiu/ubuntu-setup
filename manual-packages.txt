@@ -1,0 +1,199 @@
+i  anki - extensible flashcard learning program
+i  aptitude - terminal-based package manager
+i  aria2 - High speed download utility
+i  aspell-es - Spanish dictionary for aspell
+i  aspell-fr - French dictionary for aspell
+i  audacity - fast, cross-platform audio editor
+i  autojump - shell extension to jump to frequently used directories
+i  awesome - highly configurable X window manager
+i  awesome-doc - highly configurable X window manager - documentation
+i  awesome-extra - additional modules for awesome
+i  base-passwd - Debian base system master password and group files
+i  caffeine - prevent the desktop becoming idle in full-screen mode
+i  calibre - powerful and easy to use e-book manager
+i  console-setup - console font and keymap setup program
+i  curl - command line tool for transferring data with URL syntax
+i  dash - POSIX-compliant shell
+i  diceware - Create memorizable passphrases from wordlists and various sources of randomness
+i  diffutils - File comparison utilities
+i  e2fsprogs - ext2/ext3/ext4 file system utilities
+i  emacs - GNU Emacs editor (metapackage)
+i  exfat-fuse - read and write exFAT driver for FUSE
+i  expressvpn - ExpressVPN Command-line Interface
+i  fcitx - Flexible Input Method Framework
+i  fcitx-config-gtk - graphic Fcitx configuration tool
+i  fcitx-frontend-gtk2 - Flexible Input Method Framework - GTK+ 2 IM Module frontend
+i  fcitx-frontend-gtk3 - Flexible Input Method Framework - GTK+ 3 IM Module frontend
+i  fcitx-frontend-qt5 - Free Chinese Input Toy of X - Qt5 IM Module frontend
+i  fcitx-libpinyin - Fcitx wrapper for libpinyin
+i  fcitx-module-cloudpinyin - Flexible Input Method Framework - cloudpinyin module
+i  fcitx-pinyin - Flexible Input Method Framework - classic Pinyin engine
+i  fcitx-sunpinyin - fcitx wrapper for Sunpinyin IM engine
+i  fcitx-table-wubi - Flexible Input Method Framework - Wubi table
+i  fcitx-ui-classic - Flexible Input Method Framework - Classic user interface
+i  fcitx-ui-qimpanel - Flexible Input Method Framework - Qt IMPanel user interface
+i  fcitx5 - Next generation of Fcitx Input Method Framework
+i  findutils - utilities for finding files--find, xargs
+i  firefox-locale-en - English language pack for Firefox
+i  firefox-locale-es - Spanish; Castilian language pack for Firefox
+i  firefox-locale-fr - French language pack for Firefox
+i  firefox-locale-zh-hans - Simplified Chinese language pack for Firefox
+i  fonts-arphic-ukai - "AR PL UKai" Chinese Unicode TrueType font collection Kaiti style
+i  fonts-arphic-uming - "AR PL UMing" Chinese Unicode TrueType font collection Mingti style
+i  fonts-firacode - Monospaced font with programming ligatures
+i  fonts-indic - Meta package to install all Indian language fonts
+i  fonts-noto-cjk-extra - "No Tofu" font families with large Unicode coverage (CJK all weight)
+i  fonts-noto-extra - "No Tofu" font families with large Unicode coverage (extra)
+i  fonts-powerline - prompt and statusline utility (symbols font)
+i  fonts-roboto - metapackage to pull in Roboto fonts
+i  fzf - general-purpose command-line fuzzy finder
+i  gawk - GNU awk, a pattern scanning and processing language
+i  git - fast, scalable, distributed revision control system
+i  gnome-boxes - Simple GNOME app to access remote or virtual systems
+i  gnuplot - Command-line driven interactive plotting program.
+i  gparted - GNOME partition editor
+i  grep - GNU grep, egrep and fgrep
+i  groff - GNU troff text-formatting system
+i  grub-common - GRand Unified Bootloader (common files)
+i  grub-efi-amd64-signed - GRand Unified Bootloader, version 2 (EFI-AMD64 version, signed)
+i  grub-pc - GRand Unified Bootloader, version 2 (PC/BIOS version)
+i  hostname - utility to set/show the host name or domain name
+i  htop - interactive processes viewer
+i  hunspell-en-au - English (Australia) dictionary for hunspell
+i  hunspell-en-ca - English (Canada) dictionary for hunspell
+i  hunspell-en-gb - English (GB) dictionary for hunspell
+i  hunspell-en-us - English_american dictionary for hunspell
+i  hunspell-en-za - English (South Africa) dictionary for hunspell
+i  hunspell-es - Spanish dictionary for hunspell
+i  hunspell-fr - French dictionary for hunspell (dependency package)
+i  hyphen-en-ca - English (Canada) hyphenation patterns
+i  hyphen-en-gb - English (GB) hyphenation patterns
+i  hyphen-en-us - English (US) hyphenation patterns
+i  hyphen-es - Spanish hyphenation patterns
+i  hyphen-fr - French hyphenation patterns
+i  idle - IDE for Python using Tkinter (default version)
+i  init - metapackage ensuring an init system is installed
+i  keyboard-configuration - system-wide keyboard preferences
+i  language-pack-en - translation updates for language English
+i  language-pack-en-base - translations for language English
+i  language-pack-es - translation updates for language Spanish; Castilian
+i  language-pack-es-base - translations for language Spanish; Castilian
+i  language-pack-fr - translation updates for language French
+i  language-pack-fr-base - translations for language French
+i  language-pack-gnome-en - GNOME translation updates for language English
+i  language-pack-gnome-en-base - GNOME translations for language English
+i  language-pack-gnome-es - GNOME translation updates for language Spanish; Castilian
+i  language-pack-gnome-es-base - GNOME translations for language Spanish; Castilian
+i  language-pack-gnome-fr - GNOME translation updates for language French
+i  language-pack-gnome-fr-base - GNOME translations for language French
+i  language-pack-gnome-zh-hans - GNOME translation updates for language Simplified Chinese
+i  language-pack-gnome-zh-hans-base - GNOME translations for language Simplified Chinese
+i  language-pack-zh-hans - translation updates for language Simplified Chinese
+i  language-pack-zh-hans-base - translations for language Simplified Chinese
+i  libdebconfclient0 - Debian Configuration Management System (C-implementation library)
+i  libreoffice - office productivity suite (metapackage)
+i  libreoffice-help-en-gb - office productivity suite -- English_british help
+i  libreoffice-help-en-us - office productivity suite -- English_american help
+i  libreoffice-help-es - office productivity suite -- Spanish help
+i  libreoffice-help-fr - office productivity suite -- French help
+i  libreoffice-help-zh-cn - office productivity suite -- Chinese_simplified help
+i  libreoffice-l10n-en-gb - office productivity suite -- English_british language package
+i  libreoffice-l10n-en-za - office productivity suite -- English_southafrican language package
+i  libreoffice-l10n-es - office productivity suite -- Spanish language package
+i  libreoffice-l10n-fr - office productivity suite -- French language package
+i  libreoffice-l10n-zh-cn - office productivity suite -- Chinese_simplified language package
+i  libreoffice-templates - Additional set of templates for LibreOffice
+i  libreoffice-texmaths - TexMaths is a LaTeX equation editor for LibreOffice
+i  linux-generic - Complete Generic Linux kernel and headers
+i  locales - GNU C Library: National Language (locale) data [support]
+i  locate - maintain and query an index of a directory tree
+i  lynx - classic non-graphical (text-mode) web browser
+i  materia-gtk-theme - Material Design theme for GNOME/GTK+ based desktop environments
+i  mokutil - tools for manipulating machine owner keys
+i  mpv - video player based on MPlayer/mplayer2
+i  mythes-en-au - Australian English Thesaurus for OpenOffice.org
+i  mythes-en-us - English (USA) Thesaurus for LibreOffice
+i  mythes-es - Spanish Thesaurus for LibreOffice
+i  mythes-fr - French Thesaurus for LibreOffice
+i  nano - small, friendly text editor inspired by Pico
+i  ncurses-base - basic terminal type definitions
+i  ncurses-bin - terminal-related programs and man pages
+i  neovim - heavily refactored vim fork
+i  net-tools - NET-3 networking toolkit
+i  pandoc - general markup converter
+i  pandoc-citeproc - Pandoc support for Citation Style Language - tools
+i  pandoc-citeproc-preamble - insert a preamble before pandoc-citeproc's bibliography
+i  papirus-icon-theme - Papirus open source icon theme for Linux
+i  pciutils - PCI utilities
+i  perl-tk - Perl module providing the Tk graphics library
+i  poppler-data - encoding data for the poppler PDF rendering library
+i  python3-pymacaroons - Macaroon library for Python 3
+i  qemu - fast processor emulator, dummy package
+i  qutebrowser - Keyboard-driven, vim-like browser based on PyQt5
+i  r-cran-rmarkdown - convert R markdown documents into a variety of formats
+i  r-recommended - GNU R collection of recommended packages [metapackage]
+i  ranger - Console File Manager with VI Key Bindings
+i  rclone - rsync for commercial cloud storage
+i  redshift-gtk - Adjusts the color temperature of your screen with GTK+ integration
+i  sagemath - Open Source Mathematical Software
+i  sagemath-jupyter - Open Source Mathematical Software - Jupyter kernel
+i  sagetex - Embed Sage code and plots into LaTeX
+i  screen - terminal multiplexer with VT100/ANSI terminal emulation
+i  scrot - command line screen capture utility
+i  shim-signed - Secure Boot chain-loading bootloader (Microsoft-signed binary)
+i  smtube - YouTube videos browser
+i  snapd - Daemon and tooling that enable snap packages
+i  speedcrunch - High precision calculator
+i  stow - Organizer for /usr/local software packages
+i  suckless-tools - simple commands for minimalistic window managers
+i  sxiv - simple X image viewer
+i  synaptic - Graphical package manager
+i  terminator - multiple GNOME terminals in one window
+i  texlive-full - TeX Live: metapackage pulling in all components of TeX Live
+i  thunderbird - Email, RSS and newsgroup client with integrated spam filter
+i  thunderbird-locale-en - English language pack for Thunderbird
+i  thunderbird-locale-en-gb - Transitional English language pack for Thunderbird
+i  thunderbird-locale-en-us - Transitional English language pack for Thunderbird
+i  thunderbird-locale-es - Spanish; Castilian language pack for Thunderbird
+i  thunderbird-locale-es-ar - Transitional Spanish language pack for Thunderbird
+i  thunderbird-locale-es-es - Transitional Spanish language pack for Thunderbird
+i  thunderbird-locale-fr - French language pack for Thunderbird
+i  thunderbird-locale-zh-cn - Transitional Simplified Chinese language pack for Thunderbird
+i  thunderbird-locale-zh-hans - Simplified Chinese language pack for Thunderbird
+i  tldr - Haskell tldr client
+i  tlp - Save battery power on laptops
+i  transmission - lightweight BitTorrent client
+i  transmission-daemon - lightweight BitTorrent client (daemon)
+i  tree - displays an indented directory tree, in color
+i  ubuntu-mate-artwork - Ubuntu MATE themes and artwork
+i  ubuntu-mate-core - Ubuntu MATE - core system
+i  ubuntu-mate-desktop - Ubuntu MATE - full desktop
+i  ubuntu-mate-lightdm-theme - LightDM theme and default configuration for Ubuntu MATE
+i  ubuntu-mate-wallpapers - Wallpaper and background images for Ubuntu MATE
+i  ubuntu-minimal - Minimal core of Ubuntu
+i  ubuntu-restricted-addons - Commonly used restricted packages for Ubuntu
+i  ubuntu-standard - The Ubuntu standard system
+i  udev - /dev/ and hotplug management daemon
+i  usbutils - Linux USB utilities
+i  vifm - flexible vi-like file manager using ncurses
+i  vim - Vi IMproved - enhanced vi editor
+i  vim-gtk3 - Vi IMproved - enhanced vi editor - with GTK3 GUI
+i  virt-manager - desktop application for managing virtual machines
+i  vis - Modern, legacy free, simple yet efficient vim-like editor
+i  vlc - multimedia player and streamer
+i  wamerican - American English dictionary words for /usr/share/dict
+i  wbritish - British English dictionary words for /usr/share/dict
+i  wfrench - French dictionary words for /usr/share/dict
+i  wget - retrieves files from the web
+i  wspanish - Spanish dictionary words for /usr/share/dict
+i  xclip - command line interface to X selections
+i  xfonts-intl-chinese-big - international fonts for X - large Chinese
+i  yank - interactively select and yank terminal output to stdout or xsel
+i  yaru-theme-gtk - Yaru GTK theme from the Ubuntu Community
+i  yaru-theme-icon - Yaru icon theme from the Ubuntu Community
+i  yuyo-gtk-theme - Yuyo GTK2 and GTK3 Theme
+i  zathura - document viewer with a minimalistic interface
+i  zsh - shell with lots of features
+i  zsh-autosuggestions - Fish-like fast/unobtrusive autosuggestions for zsh
+i  zsh-doc - zsh documentation - info/HTML format
+i  zsh-syntax-highlighting - Fish shell like syntax highlighting for zsh
