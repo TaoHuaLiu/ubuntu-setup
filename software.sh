@@ -76,6 +76,8 @@ PKGS=(
 'thunderbird'
 'calibre'
 'zathura'
+'zathura-ps'
+'zathura-djvu'
 'anki'
 'mpv'
 'speedcrunch'
