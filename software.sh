@@ -49,8 +49,6 @@ PKGS=(
 
 # EDITORS
 'nano'
-'emacs'
-'idle'
 
 # CJK
 'fonts-noto-cjk-extra'
@@ -80,10 +78,13 @@ PKGS=(
 'zathura-djvu'
 'anki'
 'mpv'
+'newsboat'
+'cmus'
 'speedcrunch'
-'vlc'
 'redshift-gtk'
 'imagemagick'
+'ghostscript'
+'detox'
 
 # Other libreoffice lang
 'libreoffice'
@@ -93,8 +94,6 @@ PKGS=(
 
 # Pageantry
 'papirus-icon-theme'
-'yaru-theme-gtk'
-'yaru-theme-icon'
 'materia-gtk-theme'
 
 # VIRTUALIZATION
@@ -103,13 +102,13 @@ PKGS=(
 'gnome-boxes'
 
 # CLI TOOLS 
-'terminator'
 'xclip'
 'scrot'
 'screen'
 'yank'
 'gawk'
-'bat'
+'at'
+'fzf'
 
 # NET
 'rclone'
