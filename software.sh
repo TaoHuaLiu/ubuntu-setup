@@ -16,8 +16,13 @@ PKGS=(
 'htop'
 'git'
 'tlp'
+'xbacklight'
+'powertight'
 'aria2'
 'tree'
+'tasksel'
+'suckless-tools'
+'rofi'
 # 'snapd'
 'grep'
 'curl'
@@ -25,7 +30,6 @@ PKGS=(
 'aptitude'
 'caffeine'
 'transmission'
-'transmission-daemon'
 'exfat-fuse'
 'vifm'
 'ranger'
@@ -41,16 +45,13 @@ PKGS=(
 
 # VIM
 'vim'
-'vim-gtk3'
-'vim-ultisnips'
-'vim-snippets'
-'vim-airline'
-'vim-airline-themes'
+'nvim'
 
 # EDITORS
 'nano'
 
 # CJK
+'fonts-noto'
 'fonts-noto-cjk-extra'
 'xfonts-intl-chinese-big'
 'fcitx5'
@@ -60,6 +61,7 @@ PKGS=(
 'fonts-powerline'
 'fonts-noto-extra'
 'fonts-roboto'
+'fonts-mononoki'
 
 # TYPESETTING
 'texlive-full'
@@ -81,10 +83,12 @@ PKGS=(
 'newsboat'
 'cmus'
 'speedcrunch'
-'redshift-gtk'
+'redshift'
 'imagemagick'
 'ghostscript'
 'detox'
+'pdfgrep'
+'pdftk'
 
 # Other libreoffice lang
 'libreoffice'
@@ -99,16 +103,15 @@ PKGS=(
 # VIRTUALIZATION
 'qemu'
 'virt-manager'
-'gnome-boxes'
 
 # CLI TOOLS 
+'alacritty'
 'xclip'
 'scrot'
 'screen'
 'yank'
 'gawk'
 'at'
-'fzf'
 
 # NET
 'rclone'
@@ -126,11 +129,11 @@ echo
 
 # Add me to any groups I might need to be a part of:
 
-# sudo adduser $USER vboxusers
-
 # Gotta reboot now:
 sudo apt update && sudo apt upgrade # -y
 
-sudo snap install code bitwarden
-echo $'n'$"*** All done! Please reboot now. ***"
+groupadd video
+usermod -a -G video hugo
+# sudo snap install code bitwarden
+echo "*** All done! Please reboot now. ***"
 # snaps
