@@ -1,5 +1,6 @@
 abook
 ack
+adwaita-qt
 alacritty
 anki
 aptitude
@@ -46,6 +47,8 @@ docbook-xsl-doc-html
 docbook-xsl-doc-pdf
 docbook-xsl-doc-text
 docbook-xsl-saxon
+docbook5-xml
+duplicity
 dvorak7min
 e2fsprogs
 emacs
@@ -62,6 +65,7 @@ fcitx-sunpinyin
 fcitx-table-wubi
 fcitx-ui-classic
 fcitx-ui-qimpanel
+feedreader
 figlet
 findutils
 firefox-locale-en
@@ -88,6 +92,7 @@ gawk
 ghostscript
 git
 gnome-boxes
+gnugo
 gnuplot
 gparted
 grep
@@ -155,11 +160,13 @@ libreoffice-texmaths
 libsaxon-java
 libxalan2-java
 libxslthl-java
+light
 linux-generic
 locales
 locate
 luadoc
 lynx
+maim
 man2html
 materia-gtk-theme
 mediainfo
@@ -181,6 +188,7 @@ net-tools
 netdiscover
 newsboat
 nmap
+nnn
 node-katex
 notmuch
 npm
@@ -201,12 +209,14 @@ psgml
 python3-pymacaroons
 python3-venv
 qemu
+qt5-style-kvantum-themes
 qutebrowser
 r-cran-rmarkdown
 r-recommended
 ranger
 rclone
 redshift-gtk
+restic
 ripgrep
 rpl
 sagemath
@@ -221,6 +231,7 @@ snapd
 speedcrunch
 speedtest-cli
 stardict-xmlittre
+steam-installer
 stow
 suckless-tools
 sudoku
@@ -253,7 +264,9 @@ ubuntu-minimal
 ubuntu-restricted-addons
 ubuntu-standard
 udev
+unclutter
 units
+unrar
 urlview
 usbutils
 vifm
@@ -270,7 +283,10 @@ wget
 wspanish
 xalan
 xbacklight
+xbindkeys
+xcape
 xclip
+xdo
 xdotool
 xfonts-intl-chinese-big
 yaru-theme-gtk

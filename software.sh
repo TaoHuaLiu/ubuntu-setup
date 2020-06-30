@@ -36,6 +36,7 @@ PKGS=(
 'locate'
 'gufw'
 'fzf'
+'nmap'
 
 # ZSH 
 'zsh'
