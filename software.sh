@@ -25,18 +25,19 @@ PKGS=(
 'rofi'
 # 'snapd'
 'grep'
+'ripgrep'
 'curl'
 'wget'
 'aptitude'
 'caffeine'
-'transmission'
 'exfat-fuse'
-'vifm'
 'ranger'
 'locate'
-'gufw'
 'fzf'
 'nmap'
+'wavemon'
+'xdo'
+'nnn'
 
 # ZSH 
 'zsh'
@@ -133,8 +134,10 @@ echo
 # Gotta reboot now:
 sudo apt update && sudo apt upgrade # -y
 
-groupadd video
-usermod -a -G video hugo
+sudo groupadd video
+sudo usermod -a -G video ${USER}
+sudo groupadd docker
+sudo usermod -a -G docker ${USER}
 # sudo snap install code bitwarden
 echo "*** All done! Please reboot now. ***"
 # snaps
